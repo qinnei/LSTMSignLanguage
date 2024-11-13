@@ -6,3 +6,5 @@ Dataset: Data for Dynamic Vietnamese Sign Language (http://test101.udn.vn/d-VSL/
 Label: Cảm ơn, Cha, Chào, Mẹ, Ông, Tạm biệt.
 
 Video được đưa vào Mediapipe Holistic để rút trích các landmarks trên cơ thể, mỗi landmarks lấy 2 tọa độ điểm x, y. Đưa các đặc trưng này vào mô hình LSTM để học các đặc trưng.
+
+Hãy coi thêm ở [Poster](https://github.com/qinnei/LSTMSignLanguage/blob/main/poster.pdf).
